@@ -12,7 +12,7 @@
     ```
 1. Run unit tests
     ```shell
-    jest
+    npm run test
     ```
 1. Build compiled assets & create dist folder
     ```shell
