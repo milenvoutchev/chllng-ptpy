@@ -1,10 +1,10 @@
-# challenge-optiopay
+# chllng-ptpy
 
 ## Installation
 
 1. Clone repository
     ```shell
-    git clone git@github.com:milenvoutchev/challenge-optiopay.git
+    git clone git@github.com:milenvoutchev/chllng-ptpy.git
     ```
 1. Install dependencies
     ```shell
