@@ -1,4 +1,4 @@
-# challenge-optiopay
+# chllng-ptpy
 
 Here we would like to invite you for a small coding challenge. You can find the instruction below:
 
@@ -28,7 +28,7 @@ The allotted time to complete the challenge is 72 hours.
 
 1. Clone repository
     ```shell
-    git clone git@github.com:milenvoutchev/challenge-optiopay.git
+    git clone git@github.com:milenvoutchev/chllng-ptpy.git
     ```
 1. Install dependencies
     ```shell
